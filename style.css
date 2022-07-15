@@ -1,0 +1,49 @@
+/*global*/
+/*Global*/
+*, *::before, *::after {
+  box-sizing: border-box; }
+
+/*nav*/
+.navbar {
+  position: fixed; }
+
+/*slider*/
+.carousel-inner, .carousel-item {
+  height: 100vh; }
+
+.carousel-item img {
+  height: 10%;
+  object-fit: cover; }
+
+.carousel img {
+  height: 100%; }
+
+/*products*/
+.products .card img {
+  width: 100%;
+  height: 300px;
+  object-fit: cover; }
+
+/*Sales*/
+.sales .card h5 {
+  color: white; }
+.sales .card img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover; }
+
+/*Contact*/
+.contact {
+  background: #eff2f5; }
+  .contact form {
+    background: #eff2f5; }
+  .contact .card {
+    background: #eff2f5;
+    border: none; }
+
+/*footer*/
+footer {
+  background: #8F8F8F; }
+  footer .card {
+    border: none;
+    background: #8F8F8F; }
