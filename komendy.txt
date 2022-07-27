@@ -1,3 +1,2 @@
-
-html-validate FILENAME..#learning-git
+#learning.git
 #learning-git
